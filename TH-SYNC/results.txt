@@ -1,0 +1,8 @@
+Final value (mutex): 500000
+Time (mutex): 25 ms
+
+Final value (mutex): 500000
+Time (mutex): 25 ms
+
+Final value (mutex): 500000
+Time (mutex): 25 ms
