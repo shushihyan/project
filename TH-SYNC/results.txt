@@ -1,8 +1,8 @@
 Final value (mutex): 500000
 Time (mutex): 25 ms
 
-Final value (mutex): 500000
-Time (mutex): 25 ms
+Final value (semaphore): 500000
+Time (semaphore): 41 ms
 
-Final value (mutex): 500000
-Time (mutex): 25 ms
+Final value (spinlock): 500000
+Time (spinlock): 281 ms
